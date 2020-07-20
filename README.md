@@ -14,9 +14,11 @@ Is there a relationship between the written language review body and numerical s
 
 ## Challenges
 * Data is large
-  * 2,643,619 records | 491.92MB
+  * 2,643,619 records | 491.92 MB
 * Data not entirely clean
 * Classification difficult for labels 1, 2, 3, 4, and 5 requiring label consolidation.
+* UniversalSentenceEncoder is large and adds to model size
+ * 923.7 MB
 
 ## Pipeline
 
