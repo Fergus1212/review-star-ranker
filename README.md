@@ -12,7 +12,7 @@ Is there a relationship between the written language review body and numerical s
 ## Important Links
 * [Colab Grouped 1-3 and 4-5 (Acc. ~86%)](https://github.com/Fergus1212/review-star-ranker/blob/master/sparnknlp_review_rating_1and5.ipynb)
 
-## Problems
+## Challenges
 * Data is large
   * 2,643,619 records | 491.92MB
 * Data not entirely clean
