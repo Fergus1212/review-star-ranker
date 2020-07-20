@@ -1,11 +1,16 @@
 # review-star-ranker
 Project for University of Texas Data Analytics and Visualization Bootcamp
 
+
+
 ## Goal
 Create a ML prediction model that predicts the star_rating (1-5) based on review_body text.
 
 ## Question
 Is there a relationship between the written language review body and numerical star ratings within Amazon product reviews?
+
+## Important Links
+* [Colab Grouped 1-3 and 4-5 (Acc. ~86%)](https://github.com/Fergus1212/review-star-ranker/blob/master/sparnknlp_review_rating_1and5.ipynb)
 
 ## Problems
 * Data is large
