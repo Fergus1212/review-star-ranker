@@ -18,7 +18,7 @@ Is there a relationship between the written language review body and numerical s
 * Data not entirely clean
 * Classification difficult for labels 1, 2, 3, 4, and 5 requiring label consolidation.
 * UniversalSentenceEncoder is large and adds to model size
- * 923.7 MB
+  * 923.7 MB
 
 ## Pipeline
 
