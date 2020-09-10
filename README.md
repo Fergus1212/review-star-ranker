@@ -1,6 +1,6 @@
 # review-star-ranker
 Project for University of Texas Data Analytics and Visualization Bootcamp
-
+Final Presentation: https://docs.google.com/presentation/d/1HeUZER__E4D8_k6Kbda5tyRIY8F_a5mxV7GSXC5BGdQ/edit?usp=sharing 
 
 
 ## Goal
